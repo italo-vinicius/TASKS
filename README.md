@@ -1,2 +1,2 @@
-# TASKS
- tasks a fazer
+# TASKS A FAZER
+ Projeto pessoal utilizando Django Framework
